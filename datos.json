@@ -1,0 +1,54 @@
+{
+    "personas" : [
+        {
+            "nombre" : "Pablo",
+            "edad" : 26,
+            "habilidades" : ["JavaScript", "HTML", "CSS", "Python", "Figma", "Canva"]
+        },
+        {
+            "nombre" : "Luisa",
+            "edad" : 23,
+            "habilidades" : ["Nomad Sculpt", "Canva", "Procreate", "Sketchbook"] 
+        },
+        {
+            "nombre": "Roberto",
+            "edad": 35,
+            "habilidades": ["Python", "Machine Learning", "SQL", "Docker"]
+        },
+        {
+            "nombre": "Valeria",
+            "edad": 28,
+            "habilidades": ["Diseño UX/UI", "Figma", "Research de Usuarios", "Prototipado"]
+        },
+        {
+            "nombre": "Carlos",
+            "edad": 42,
+            "habilidades": ["Gestión de Proyectos", "Scrum Master", "Análisis de Datos", "Comunicación Efectiva"]
+        },
+        {
+            "nombre": "Sofía",
+            "edad": 22,
+            "habilidades": ["Marketing Digital", "SEO", "Content Creation", "Redes Sociales"]
+        },
+        {
+            "nombre": "Miguel",
+            "edad": 30,
+            "habilidades": ["React", "Node.js", "MongoDB", "AWS"]
+        },
+        {
+            "nombre": "Andrea",
+            "edad": 26,
+            "habilidades": ["Ilustración Digital", "Photoshop", "Clip Studio Paint", "Animación 2D"]
+        },
+        {
+            "nombre": "Ricardo",
+            "edad": 39,
+            "habilidades": ["Ciberseguridad", "Pen Testing", "Redes", "Linux"]
+        },
+        {
+            "nombre": "Natalia",
+            "edad": 31,
+            "habilidades": ["Edición de Video", "Premiere Pro", "After Effects", "Storytelling Audiovisual"]
+        }
+    ]
+}
